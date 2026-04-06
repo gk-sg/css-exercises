@@ -1,1 +1,13 @@
 /* Add CSS Styling */
+.bw, 
+.yb {
+    font-size: 28px;
+    font-family: "Helvetica", "Timees New Roman", sans-serif;
+}
+.bw {
+    background-color: black;
+    color: white;
+}
+.yb {
+    background-color: yellow;
+}
